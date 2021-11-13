@@ -11,7 +11,7 @@ import (
 	"strings"
 	"testing"
 
-	"filippo.io/edwards25519/field"
+	"github.com/johnkord/edwards25519/field"
 )
 
 var B = NewGeneratorPoint()
